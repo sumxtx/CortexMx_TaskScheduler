@@ -23,6 +23,6 @@
 
 #define MAX_TASKS                   4
 
-#define DUMMY_XPSR 0x01000000U
+#define DUMMY_XPSR 0x10000000U
 
 #endif /*MAIN_H_*/
